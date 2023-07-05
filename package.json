@@ -1,0 +1,11 @@
+{
+  "name": "drinkbot",
+  "version": "1.0.0",
+  "description": "drink more watr",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
